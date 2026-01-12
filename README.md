@@ -5,47 +5,6 @@ A beginner-friendly tutorial project that teaches TensorFlow.js and MediaPipe Ha
 <!-- TBD -->
 <!-- ![Air Juggler Demo](demo.gif) -->
 
-## What You'll Learn
-
-- **TensorFlow.js** - Running machine learning models in the browser
-- **MediaPipe Hands** - Real-time hand landmark detection
-- **Webcam Access** - Using the `getUserMedia` API
-- **Video Processing** - Drawing video feeds to HTML5 Canvas
-- **Real-time Interactions** - Creating responsive gesture-based applications
-
-## Quick Start
-
-### Option 1: Start from Scratch
-
-1. Open the **starter/** directory
-2. Follow the **TUTORIAL.md** step-by-step
-3. Complete the TODOs in the code
-4. Reference **completed/** if you get stuck
-
-### Option 2: Try the Completed Version
-
-1. Open the **completed/** directory
-2. Open `index.html` in a modern browser
-3. Grant camera permissions
-4. Click "Start Game" and play!
-
-## File Structure
-
-```
-air-juggler/
-├── starter/             # Incomplete code with TODOs (start here!)
-│   ├── index.html       # HTML without TensorFlow scripts
-│   ├── style.css        # Complete styling (provided)
-│   ├── game.js          # Game boilerplate with TODOs
-│   └── handTracking.js  # Hand tracking boilerplate with TODOs
-├── completed/           # Fully working code (reference)
-│   ├── index.html
-│   ├── style.css
-│   ├── game.js
-│   └── handTracking.js
-└── README.md            # This file
-```
-
 ## How to Play
 
 1. **Open the game** - Load `index.html` in a browser (Chrome, Firefox, Edge recommended)
